@@ -1,0 +1,14 @@
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\obj\Debug\ResolveAssemblyReference.cache
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\bin\MyFirstMVCProject.dll
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\bin\MyFirstMVCProject.pdb
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\bin\EntityFramework.dll
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\bin\EntityFramework.xml
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\obj\Debug\MyFirstMVCProject.dll
+c:\users\ayla\documents\visual studio 2010\Projects\MyFirstMVCProject\MyFirstMVCProject\obj\Debug\MyFirstMVCProject.pdb
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\bin\MyFirstMVCProject.dll
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\bin\MyFirstMVCProject.pdb
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\bin\EntityFramework.dll
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\bin\EntityFramework.xml
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\obj\Debug\ResolveAssemblyReference.cache
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\obj\Debug\MyFirstMVCProject.dll
+D:\Work\Ekrem\MyBasicMVCSite\MyFirstMVCProject\MyFirstMVCProject\obj\Debug\MyFirstMVCProject.pdb
